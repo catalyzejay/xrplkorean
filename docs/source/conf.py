@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "XRPL-Korean"
-copyright = "2023, Catalyze-Reserch, Wonjae Choi"
-author = "wonj1012"
-release = "1.0"
+copyright = "2023, Catalyze-Research"
+authors = ["Catalyze-Reserch", "Wonjae Choi"]
+release = "0.0.1"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
