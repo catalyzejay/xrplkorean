@@ -13,6 +13,21 @@
 -   XRPL 개발 예제
 -   XRPL 개발 팁 및 주의사항
 
+## 프로젝트 구조
+
+    xrpl-korean
+    ├── content  - Tutorial을 위한 md 파일들이 위치하는 폴더입니다.
+    │   ├── 01-introduction
+    │   ├── 02-python_syntax
+    │   └── 03-token
+    ├── samples  - 샘플 프로젝트들의 소스코드가 위치하는 폴더입니다.
+    │   ├── 04-nft
+    │   └── payment
+    ├── docs  - Read The Docs by Sphinx
+    ├── img
+    ├── LICENSE
+    └── README.md
+
 ## 기여 방법
 
 이 프로젝트는 오픈소스 프로젝트로, 누구나 기여할 수 있습니다.  
