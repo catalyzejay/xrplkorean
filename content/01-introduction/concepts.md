@@ -1,4 +1,4 @@
-# XRPL이란?
+# 리플이란?
 
 ## XRP와 XRP Ledger
 
